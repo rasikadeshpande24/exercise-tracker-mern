@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "//rasikadeshpande24.github.io/exercise-tracker-mern/static/js/main.af6fe64f.chunk.js",
+    "main.js.map": "//rasikadeshpande24.github.io/exercise-tracker-mern/static/js/main.af6fe64f.chunk.js.map",
+    "runtime-main.js": "//rasikadeshpande24.github.io/exercise-tracker-mern/static/js/runtime-main.7ad69b86.js",
+    "runtime-main.js.map": "//rasikadeshpande24.github.io/exercise-tracker-mern/static/js/runtime-main.7ad69b86.js.map",
+    "static/css/2.08514f01.chunk.css": "//rasikadeshpande24.github.io/exercise-tracker-mern/static/css/2.08514f01.chunk.css",
+    "static/js/2.2a071220.chunk.js": "//rasikadeshpande24.github.io/exercise-tracker-mern/static/js/2.2a071220.chunk.js",
+    "static/js/2.2a071220.chunk.js.map": "//rasikadeshpande24.github.io/exercise-tracker-mern/static/js/2.2a071220.chunk.js.map",
+    "index.html": "//rasikadeshpande24.github.io/exercise-tracker-mern/index.html",
+    "static/css/2.08514f01.chunk.css.map": "//rasikadeshpande24.github.io/exercise-tracker-mern/static/css/2.08514f01.chunk.css.map",
+    "static/js/2.2a071220.chunk.js.LICENSE.txt": "//rasikadeshpande24.github.io/exercise-tracker-mern/static/js/2.2a071220.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ad69b86.js",
+    "static/css/2.08514f01.chunk.css",
+    "static/js/2.2a071220.chunk.js",
+    "static/js/main.af6fe64f.chunk.js"
+  ]
+}
